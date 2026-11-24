@@ -1,0 +1,7 @@
+{
+  "id": "com.twilitrealm.better_links_basement",
+  "name": "Better Link's Basement",
+  "version": "@PROJECT_VERSION@",
+  "author": "RobinTheSoundsmith",
+  "description": "Removes the basement chest and replaces it with the Trill lantern-oil and red-potion pots and a torch."
+}
